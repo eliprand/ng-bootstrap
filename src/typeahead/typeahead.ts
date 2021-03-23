@@ -176,7 +176,7 @@ export class NgbTypeahead implements ControlValueAccessor,
   * This can be used to provide instance-specific styling. It was originally impelemented to allow overriding
   * the `z-index` of the `ngb-typeahead-window` when using it inside a modal window.
   *
-  * @since 8.1.0
+  * @since 9.1.0
   */
   @Input() windowClass: string;
 
